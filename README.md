@@ -1,1 +1,1 @@
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kremergustavo&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremergustavo)](https://github.com/anuraghazra/github-readme-stats)
