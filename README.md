@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremergustavo&stats_format=bytes)
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kremergustavo)](https://github.com/kremergustavo/github-readme-stats)
